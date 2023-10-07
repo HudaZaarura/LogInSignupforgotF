@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337755200965",
+    "project_id": "loginsignupforgot-11a63",
+    "storage_bucket": "loginsignupforgot-11a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337755200965:android:b631c74dfa56f2d721bfac",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupforgot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDDdkX0SHYFC5E9xqibrBeuj2vKUqXq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
